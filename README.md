@@ -18,4 +18,4 @@ To use the Brainfuck interpreter, follow these steps:
 3. Run the interpreter with the following command:
 
    ```bash
-   go run brainfuck_interpreter.go <filename>
+   go run compiler.go <filename>
