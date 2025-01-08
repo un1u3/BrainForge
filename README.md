@@ -1,5 +1,4 @@
-# BrainForge
-## Brainfuck Interpreter in Go
+# BrainForge -  Brainfuck Interpreter in Go
 ```
  ____  _____            _____ _   _   ______ ____  _____   _____ ______ 
  |  _ \|  __ \     /\   |_   _| \ | | |  ____/ __ \|  __ \ / ____|  ____|
