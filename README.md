@@ -18,12 +18,12 @@ This project is a simple **BrainForge** written in Go. It reads a Brainfuck prog
 ## Usage
 
 To use the Brainfuck interpreter, follow these steps:
+1. Star and Fork the repository
+2. Clone the repository or download the code.
 
-1. Clone the repository or download the code.
+3. Create a Brainfuck program file (e.g., `hello_world.bf`).
 
-2. Create a Brainfuck program file (e.g., `hello_world.bf`).
-
-3. Run the interpreter with the following command:
+4. Run the interpreter with the following command:
 
    ```bash
    go run compiler.go <filename>
